@@ -1,0 +1,8 @@
+##
+POST http://localhost:3000/transferToken
+Content-Type: application/json
+
+{
+"solAmount": "1",
+"toPublicKey": "62AtDMhgaW1YQZCxv7hGBE7HDTU67L71vs4VQrRVBq3p"
+}
