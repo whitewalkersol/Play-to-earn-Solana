@@ -1,7 +1,8 @@
 
 
 #  
-![BAŞ](https://github.com/Yusufcihan1/web2to3/assets/50721899/4adeb574-b026-447b-97a1-79d1a1521431)
+
+![BAŞ](https://github.com/whitewalkersol/Play-to-earn-Solana/assets/137245127/e1c0473e-4c6b-4dc0-bcd2-421b2a3065e7)
 
 
 CONTENTS:
@@ -35,12 +36,16 @@ Considering these factors we are going to build a decentralized gaming platform 
 
 Example Application
 ------------------------
-https://solana-game.vercel.app/
-![1](https://github.com/Yusufcihan1/web2to3/assets/50721899/5fd5ad2b-cd38-492a-b5b3-317584566c27)
+
+
+![1](https://github.com/whitewalkersol/Play-to-earn-Solana/assets/137245127/eba6c0bb-4a27-4392-8913-14f7839ad1ea)
+
 -----------------------------------------------------------------
-![2](https://github.com/Yusufcihan1/web2to3/assets/50721899/1f53e549-6914-4f95-b78d-3838b15decfc)
+![2](https://github.com/whitewalkersol/Play-to-earn-Solana/assets/137245127/6e7da9f4-27bd-488a-acef-1c20e9d01eb0)
+
 -----------------------------
-![3](https://github.com/Yusufcihan1/web2to3/assets/50721899/f5b606e1-7cfc-44f6-b5d6-c494cf429cdb)
+![3](https://github.com/whitewalkersol/Play-to-earn-Solana/assets/137245127/bb6ee4cb-16d8-4ee5-8849-641e0311689c)
+
 --------------------------------------------------------------------------------
 
 
@@ -97,11 +102,13 @@ As such no requirements, only a good code editor will work. I prefer to use VS C
 
 Folder structure of the frontend app expected of the react app to run this tutorial:
 
-![4](https://github.com/Yusufcihan1/web2to3/assets/50721899/ebb2996f-f585-46c4-a3dc-40c984a55e98)
+![4](https://github.com/whitewalkersol/Play-to-earn-Solana/assets/137245127/933f6c72-618d-4898-98b8-8e146fb9fa50)
+
 
 3-Flow Schema
 --------------
-![5](https://github.com/Yusufcihan1/web2to3/assets/50721899/2b0b85b7-d0be-4a04-81f0-a7b3e31db562)
+![5](https://github.com/whitewalkersol/Play-to-earn-Solana/assets/137245127/f952c2d4-a043-4bdf-931b-d4372ffedb6b)
+
 
 4-Accept fees 
 -------------------------------------
